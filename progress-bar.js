@@ -1,6 +1,7 @@
 /** 
  * ProgressBar : Simple animated progress bar
  * Author : Nayem > https://facebook.com/sadik5g
+ * Version : 1.0.0
  */
 (function($){
 
